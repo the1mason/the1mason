@@ -1,16 +1,17 @@
-# Hi there 👋
+# Hey there `✨`
 
-<!--
-**the1mason/the1mason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name's **Vlad** `(he/him)`
 
-Here are some ideas to get you started:
+### 🌍 [Website](https://the1mason.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 [Portfolio \[WIP\]](https://the1mason.com/projects)
+
+Currently workin' on 🔄 [UniFileLib](https://github.com/the1mason/UniFileLib) and *some private projects :p*
+
+Learning [Unity](https://github.com/orgs/Unity-Technologies) and [Blazor](https://github.com/dotnet/aspnetcore/)...
+
+You can reach me there:
+
+- [email@the1mason.com](mailto:email@the1mason.com)
+
+- [Telegram](https://t.me/the1mason)
