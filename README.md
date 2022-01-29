@@ -8,8 +8,6 @@
 
 Currently workin' on *some private projects :p*
 
-Learning [Unity](https://github.com/orgs/Unity-Technologies) and [Blazor](https://github.com/dotnet/aspnetcore/)...
-
 You can reach me there:
 
 - [email@the1mason.com](mailto:email@the1mason.com)
