@@ -4,8 +4,6 @@
 
 ### 🌍 [Website](https://the1mason.com)
 
-### 💼 [Portfolio \[WIP\]](https://the1mason.com/projects)
-
 Currently workin' on *some private projects :p*
 
 You can reach me there:
