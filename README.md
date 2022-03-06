@@ -8,6 +8,6 @@ Currently workin' on *some private projects :p*
 
 You can reach me there:
 
-- [email@the1mason.com](mailto:email@the1mason.com)
+- [Gmail](mailto:the1mason.general@gmail.com)
 
 - [Telegram](https://t.me/the1mason)
