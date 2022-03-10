@@ -4,7 +4,7 @@
 
 ### 🌍 [Website](https://the1mason.com)
 
-Currently workin' on *some private projects :p*
+Currently workin' on [the1mason-api](https://github.com/the1mason/the1mason-api) and *some private projects :p*
 
 You can reach me there:
 
