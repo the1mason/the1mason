@@ -1,10 +1,12 @@
 # Hey there `✨`
 
-### My name's **Vlad** `(he/him)`
+### My name is **Vladislav** `(he/him)`
 
 ### 🌍 [Website](https://the1mason.com)
 
-Currently workin' on [the1mason-api](https://github.com/the1mason/the1mason-api) and *some private projects :p*
+Currently working on [mdpost](https://github.com/the1mason/mdpost) and *some private projects :p*  
+
+Learning **GO**...
 
 You can reach me there:
 
