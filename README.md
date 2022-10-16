@@ -4,8 +4,6 @@
 
 ### 🌍 [Website](https://the1mason.com)
 
-Currently working on [mdpost](https://github.com/the1mason/mdpost) and *some private projects*  
-
 Learning **GO**...
 
 You can reach me there:
