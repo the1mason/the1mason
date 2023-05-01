@@ -1,10 +1,10 @@
 # Hey there `✨`
 
-### My name is **Vladislav** `(he/him)`
+### My name is **Vladislav**
 
 ### 🌍 [Website](https://the1mason.com)
 
-Learning **GO**...
+I am .NET developer.  
 
 You can reach me there:
 
