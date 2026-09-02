@@ -12,13 +12,7 @@
 
 contacts:
   email:     'mail@the1mason.com'   # for important stuff
-  telegram:  '@████████████'        # messaging...? 
-  site:      'the1mason.com'        # personal website!
-
-information:
-  profession:  'software engineer'
-  interests:   ['⚡███████████████████', '🌆 ███████████████', '███████████████████']
-  other:       '█████████████████████ discord.gg/csharp'
-
+  telegram:  '@the1mason'        # messaging...? 　
+  site:      'the1mason.com'        # personal website!  
 
 ```
